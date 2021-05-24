@@ -61,3 +61,7 @@ The cost of the system varies significantly with the quality of the filters used
 | **3D printing** | free or cheap at a makerspace / institutional workshop |
 | **threated inserts (M3 / 1/20")** | 5 |
 | **TOTAL**| ~ 500 |
+
+## Notes
+
+The Raspberry pi (3) A+ with the faster processor and onboard wifi should probably be avoided for continuous applications. The system is tightly packed and therefore runs (too) hot. Using the older Raspberry pi (2) A board avoids these thermal issues, while sacrificing internal wifi. Wifi can be added using a USB stick. Future versions might include more venting holes and a smaller (lighter) build around a Raspberry pi Zero.
