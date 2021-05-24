@@ -47,21 +47,17 @@ Finally, install your filters in the filter holes. When using glass filters prov
 
 ## Bill of Materials (as shown)
 
-
+The cost of the system varies significantly with the quality of the filters used, or the cameras mounted. In the described setup focussing on vegetation indices (EVI and PRI), the laser line filter makes up 25% of the assembly. Using more or less expensive filters will change the price dramatically. The overall price without any filters (or special cameras) comes to 230 EURO (not including 3D printing costs). Beware that hardware modifications for the Rasperry pi cameras exist, in particular there is a monochrome UV capable modification sold by [MaxMax](https://maxmax.com/maincamerapage/monochrome-cameras/raspeberry-pi-cameras/raspberry-pi-mono) (~500 EURO), extending the setup into the UV domain (for direct or fluorescence measurements, or [forensic measurements](https://www.mdpi.com/1424-8220/16/10/1649)). The header allows for the extension of the setup into the thermal infrared using a FLIR lepton camera unit. Due to current chip shortages I've not included this in the current version. The FLIR camera is expensive (~300 EURO) but would increase the spectral domain of the build considerably. For custom builds please contact [BlueGreen Labs](https://bluegreenlabs.org).
 
 | Item | price (EURO)|
 |--|--|
-| **530nm filter**|  |
-| **570nm filter**|  |
-| **NIR filter**|  |
-| **VIS filter**|  |
-| **Raspberry pi A(+)** | 36 |
+| **530nm laser line filter**| 130 |
+| **570nm bandpass filter**| 80 |
+| **NIR filter**| 30 |
+| **VIS filter**| 30 |
+| **Raspberry pi A(+)** | 35 |
 | **multiplexer board**| 50 |
 | **Raspberry pi cameras (4x)** | 140 |
 | **3D printing** | free or cheap at a makerspace / institutional workshop |
 | **threated inserts (M3 / 1/20")** | 5 |
-| **TOTAL**| ~ |
-
-
-
-
+| **TOTAL**| ~ 500 |
