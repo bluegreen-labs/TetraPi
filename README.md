@@ -1,12 +1,8 @@
 # TetraPi
 
-These are the schematics for a 3D printable housing for a multispectral Raspberry pi camera. The camera relies on off the shelve components and provides a cost effective and easily maintained alternative to commercial offerings.
+Schematics for a 3D printable housing and build instructions for a multispectral Raspberry pi camera. The camera relies on off the shelve components and provides a cost effective and easily maintained alternative to commercial offerings. The camera is built around a Raspberry pi type A or A+, a four camera multiplexer, four 5 or 8 MP Raspberry pi cameras and standard 25mm diameter filters (a common format for benchtop optics).
 
-The camera is built around a Raspberry pi type A or A+, a four camera multiplexer, four 5 or 8 MP Raspberry pi cameras and standard 25mm diameter filters (a common format for benchtop optics).
-
-The camera has three main parts, the main housing, a top plate fitting the four cameras and optical filters and cover plate which holds the filters in place. For coloured glass filters a padding ring is provided so the filter is held in place. The top plate and cover plate are screwed into place using M3 screws (using brass threated inserts).
-
-The main housing has flanges to provide easy mounting (3 mm mounting holes). A backing plate with a 1/20" camera screw is provided for mounting the camera on a standard tripod.
+The camera has three main parts, the main housing, a top plate fitting the four cameras and optical filters and cover plate which holds the filters in place. For coloured glass filters a padding ring is provided so the filter is held in place. The top plate and cover plate are screwed into place using M3 screws (using brass threated inserts). The main housing has flanges to provide easy mounting (3 mm mounting holes). A backing plate with a 1/20" camera screw is provided for mounting the camera on a standard tripod.
 
 ![](img/camera_model.png)
 
@@ -38,13 +34,33 @@ Carefully connect the ribbon cables to all cameras, routing them appropriately. 
 
 Finally, install your filters in the filter holes. When using glass filters provide additional padding to prevent the filter from rattling and being damaged (especially on moving platforms). Cover the the filter assembly with the filter plate and screw down firmly.
 
+![](img/camera_with_filters.png)
+
 ## Specifications
 
+| | |
+|--|--|
+| **filters **| 2 - 4 (max) |
+| **filter type** | 25mm benchtop filters (e.g. Thorlabs) |
+| **weight **| ~150gr (as shown) |
+| **storage** | limited by internal SD card, cloud services (wifi) or external USB drive |
 
-## Bill of Materials
+## Bill of Materials (as shown)
 
 
 
+| Item | price (EURO)|
+|--|--|
+| **530nm filter**|  |
+| **570nm filter**|  |
+| **NIR filter**|  |
+| **VIS filter**|  |
+| **Raspberry pi A(+)** | 36 |
+| **multiplexer board**| 50 |
+| **Raspberry pi cameras (4x)** | 140 |
+| **3D printing** | free or cheap at a makerspace / institutional workshop |
+| **threated inserts (M3 / 1/20")** | 5 |
+| **TOTAL**| ~ |
 
 
 
