@@ -32,7 +32,7 @@ Carefully connect the ribbon cables to all cameras, routing them appropriately. 
 
 ### Filter plate
 
-Finally, install your filters in the filter holes. When using glass filters provide additional padding to prevent the filter from rattling and being damaged (especially on moving platforms). Cover the the filter assembly with the filter plate and screw down firmly.
+Finally, install your filters in the filter holes. When using glass filters provide additional padding with a filter ring to prevent the filter from rattling and being damaged (especially on moving platforms). Cover the the filter assembly with the filter plate and screw down firmly.
 
 ![](img/camera_with_filters.png)
 
