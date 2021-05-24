@@ -40,9 +40,9 @@ Finally, install your filters in the filter holes. When using glass filters prov
 
 | | |
 |--|--|
-| **filters **| 2 - 4 (max) |
+| **filters**| 2 - 4 (max) |
 | **filter type** | 25mm benchtop filters (e.g. Thorlabs) |
-| **weight **| ~150gr (as shown) |
+| **weight**| ~150gr (as shown) |
 | **storage** | limited by internal SD card, cloud services (wifi) or external USB drive |
 
 ## Bill of Materials (as shown)
