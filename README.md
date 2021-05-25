@@ -1,6 +1,6 @@
 # TetraPi
 
-Schematics for a 3D printable housing and build instructions for a multispectral Raspberry pi camera. The camera relies on off the shelve components and provides a cost effective and easily maintained alternative to commercial offerings. The camera is built around a Raspberry pi type A or A+, a four camera multiplexer, four 5 or 8 MP Raspberry pi cameras and standard 25mm diameter filters (a common format for benchtop optics).
+Schematics for a 3D printable housing and build instructions for a multispectral Raspberry pi camera. The camera relies on off the shelve components and provides a cost effective and easily maintained alternative to commercial cameras. The camera is built around a Raspberry pi type A or A+, a four camera multiplexer, four 5 or 8 MP Raspberry pi cameras and standard 25mm diameter filters (a common format for benchtop optics).
 
 The camera has three main parts, the main housing, a top plate fitting the four cameras and optical filters and cover plate which holds the filters in place. For coloured glass filters a padding ring is provided so the filter is held in place. The top plate and cover plate are screwed into place using M3 screws (using brass threated inserts). The main housing has flanges to provide easy mounting (3 mm mounting holes). A backing plate with a 1/20" camera screw is provided for mounting the camera on a standard tripod.
 
@@ -64,4 +64,4 @@ The cost of the system varies significantly with the quality of the filters used
 
 ## Notes
 
-The Raspberry pi (3) A+ with the faster processor and onboard wifi should probably be avoided for continuous applications. The system is tightly packed and therefore runs (too) hot. Using the older Raspberry pi (2) A board avoids these thermal issues, while sacrificing internal wifi. Wifi can be added using a USB stick. Future versions might include more venting holes and a smaller (lighter) build around a Raspberry pi Zero.
+The Raspberry pi (3) A+ with the faster processor and onboard wifi should probably be avoided for continuous applications. The system is tightly packed and therefore runs hot and overall requires more power than desired (especially for offline use). Using the a Raspberry pi (2) A board avoids these thermal and power issues, while sacrificing internal wifi. Wifi can be added using a USB stick. Future versions might include more venting holes and a smaller (lighter) build around a Raspberry pi Zero. For development purposes I do recommend the Raspberry pi (3) A+ as it makes interacting with the camera faster.
