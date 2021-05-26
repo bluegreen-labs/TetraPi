@@ -16,7 +16,7 @@ Mount the Raspberry pi A(+) in the housing on the printed stand-offs, using M2.5
 
 ### Top plate
 
-Recent badges of the Raspberry pi (NOIR) cameras come mounted with the image sensor on flexible foam double sided tape. This original setup doesn't allow for easy and predicable alignment of the cameras. To fix this issue, remove the sensor and remount it using thin double sided tape. In some cameras this setup is the default already, if you are lucky you can skip this step.
+Recent batches of the Raspberry pi (NOIR) cameras come mounted with the image sensor on flexible foam double sided tape. This original setup doesn't allow for easy and predicable alignment of the cameras. To fix this issue, remove the sensor and remount it using thin double sided tape. In some cameras this setup is the default already, if you are lucky you can skip this step.
 
 |Original | Modified |
 |:----:|:----:|
